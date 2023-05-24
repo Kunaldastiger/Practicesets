@@ -1,4 +1,4 @@
-Sure! Here's a detailed document covering the basic concepts of Docker within 2000 words:
+
 
 ---
 
